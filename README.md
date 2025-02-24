@@ -1,5 +1,7 @@
 # tradeAdjustment
 
+Created in Spring/Summer 2024 to assist with a research study on the impacts of Trade Adjustment Assistance (TAA). 
+
 #### IMPORTS AND OTHER REQUIREMENTS
 
 To install Pyap, run the command:
